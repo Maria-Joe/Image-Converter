@@ -1,4 +1,4 @@
-<h3> ABOUT </h3>
+<h2> About </h2>
 This application is developed using JavaFx. 
 It allow user to upload multiple images from laptop/desktop.
 The uploaded images are displayed as thumbnails to users on GUI.
